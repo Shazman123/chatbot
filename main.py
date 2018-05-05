@@ -43,7 +43,7 @@ def answer(msg):
 #flask starts here
 
 
-app = Flask(__name__)
+application = app = Flask(__name__)
 
 @app.route("/")
 def hello():
