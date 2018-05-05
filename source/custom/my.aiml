@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<aiml version="1.0">
+	<category>
+		<pattern>where is Jhansi </pattern>
+		<template>Jhansi is a historical city which is located in the Indian state of Uttar Pradesh.</template>
+	</category>
+	<category>
+		<pattern>WHO IS FOUNDER OF JHANSI </pattern>
+		<template>Raja of Orchha.</template>
+	</category>
+	<category>
+		<pattern>WHAT IS POPULATION OF JHANSI </pattern>
+		<template>Population of jhansi was 505,63 and	547,638 (in th area of Metropolis and Metro) in 2011.</template>
+	</category>
+	<category>
+		<pattern>WHAT IS THE OFFICIAL LANGUAGE OF JHANSI </pattern>
+		<template>HINDI is a official language. </template>
+	</category>
+	<category>
+		<pattern>WHAT IS THE LOCAL LANGUAGE OF JHANSI </pattern>
+		<template>What is the native language of Jhansi?</template>
+	</category>
+	<category>
+		<pattern>WHAT IS LITRACY PERCENTAGE OF JHANSI </pattern>
+		<template>Literacy percentage of Jhansi is 83.02%.</template>
+	</category>
+	<category>
+		<pattern>OFFICIAL WEBSITE OF JHANSI </pattern>
+		<template>www.jhansi.nic.in</template>
+	</category>
+	<category>
+		<pattern>PINCODE OF JHANSI </pattern>
+		<template>284001-2-3-4</template>
+	</category>
+	<category>
+		<pattern>TELEPHONE CODE OF JHANSI </pattern>
+		<template>0510</template>
+	</category>
+	<category>
+		<pattern>MAYOR OF JHANSI</pattern>
+		<template>Ram Teerth Singhal (BJP) is the mayor of Jhansi </template>
+	</category>
+	<category>
+		<pattern>WHO IS THE MEMBER OF PARLIAMENT FROM JHANSI? </pattern>
+		<template>Uma Bharti (Bhartiya Janta Party) is the Member of Parliament of Jhansi</template>
+	</category>
+	<category>
+		<pattern>TIMEZONE OF JHANSI </pattern>
+		<template>TimeZone of Jhansi is IST (UTC+5:30)</template>
+	</category>
+	<category>
+		<pattern>WHAT IS THE NICKNAME OF JHANSI </pattern>
+		<template>City of Rani Laxmi Bai and   Gateway of Bundelkhand are the nickname of Jhansi</template>
+	</category>
+	<category>
+		<pattern>RECOD HIGH TEMRATURE OF JHANSI </pattern>
+		<template>48degree celsius is the highest Temperature of Jhansi</template>
+	</category>
+	<category>
+		<pattern>WHICH ONE IS THE BIGGEST UNIVESITY WITHIN REGION </pattern>
+		<template>Bundelkhand University </template>
+	</category>
+	<category>
+		<pattern>WHERE IS THE PIYA MILAN CHAHURAHA </pattern>
+		<template>University main gate.</template>
+	</category>
+	<category>
+		<pattern>WHAT ARE SOME FAMOUS ENGINEERING COLLEGE IN JHANSI </pattern>
+		<template>Bundelkhand Institute of Enginnering and Technolgy, IET BU Jhansi, SRGI, Axis Collage OF engineering</template>
+	</category>
+</aiml>
